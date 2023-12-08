@@ -1,0 +1,14 @@
+{
+	"id": "sendmail",
+	"version": "0.2.1",
+	"meta": {
+		"label": "Send emails",
+		"description": "Send emails based on a dataset containing a list of contacts, with optional attachments (other datasets). This Plugin has been updated from the original version so that users may produce a comma-delimited file, in addition to the previous tab-delimited file",
+		"author": "Dataiku (Original Author, Ryan Slay)",
+		"icon": "icon-envelope-alt",
+		"licenseInfo": "Apache Software License",
+		"url": "https://www.dataiku.com/dss/plugins/info/sendmail.html",
+		"tags": ["Marketing"],
+        "supportLevel": "NOT_SUPPORTED"
+	}
+}
